@@ -7,5 +7,6 @@ A quiz game where users answer question and get get Houses.
 ## Made with 
 -Scratch
 
-## How to Run
-Download the .sb3 file and open it in scratch 
+## Play the Project
+you can play it here :
+https://scratch.mit.edu/projects/1334996162
